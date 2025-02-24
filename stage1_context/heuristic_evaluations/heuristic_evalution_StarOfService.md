@@ -40,8 +40,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                        | **Severity**    | Recommendation                                                        |
 | ---------------                                  | ------------    |--------------                                                         |
-| Não existe a opção de retroceder em praticamente | 4               | Adicionar a funcionalidade/opção de retroceder em cada ação executada |
-| todas as operações que eu queira executar        |                 | pelo utilizador
+| Falta opção de retroceder em ações               | 4               | Adicionar a funcionalidade/opção de retroceder em cada ação executada pelo utilizador
 
 
 
