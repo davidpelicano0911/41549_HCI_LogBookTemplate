@@ -2,10 +2,10 @@
 ## General Information 
 - **Name of System:** YourHero
 - **Company/Developer:** YourHero Portugal, Lda. 
-- **Website/Product Page:** https://www.yourhero.pt/
+- **Website/Product Page:** https://www.yourhero.com/
 - **Version/Release Date:** Fundado em 2021
 - **Platform(s) Supported:** Web, Aplicativos Móveis (iOS/Android)
-- **Target Audience:** Proprietários de residências e empresas em Portugal que necessitam de serviços domésticos e de manutenção; profissionais que oferecem esses serviços.
+- **Target Audience:** Proprietários de residências e empresas que necessitam de serviços domésticos e de manutenção; profissionais que oferecem esses serviços.
 
 --- 
 ## Core Functionality 

@@ -45,7 +45,7 @@
 
 ## QUESTIONS
 
-1. **Consegue descrever algum momento em que precisou de ajuda com alguma tarefa doméstica ou um outro serviço, como passar a roupa a ferro, passear o cão, limpar o jardim...? Enontrou essa ajuda?**
+1. **Consegue descrever algum momento em que precisou de ajuda com alguma tarefa doméstica ou um outro serviço, como passar a roupa a ferro, passear o cão, limpar o jardim...? Encontrou essa ajuda?**
 
 2. **Já usou algum site de contratar serviços? Qual? Gostou da experiência?**
 
@@ -60,7 +60,7 @@
 
 6. **Que funcionalidades seriam seriam interessantes estar disponíveis?**
 
-7. **O que acha que poderia tornar o nosso site de destaque?**
+7. **O que acha que poderia tornar o nosso site de destaque face a outros??**
 
 8. **Mais algumas opinião, ideia ou sugesão que gostaria de adicionar a este projeto?**
 
