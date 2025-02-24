@@ -57,7 +57,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design prevent slips by using helpful constraints? 
 >	- Does the design warn users before they perform risky actions?
 
-| **Issue**                                                 | **Severity** | Recommendation                                                                      
+| **Issue**                                                 | **Severity** | Recommendation                                                                |
+| ---------------                                           | ------------ |--------------                                                                 |
 | Quando fecho um serviço que tinha pedido não aparece      | 4            | Colocar pré-condições em operaçõoes sensíveis por exemplo "Tem a certeza que  |         
 | nenhuma opção para confirmar se quero mesmo realizar esta |              | pretende excluir o serviço?"                                                  |
 | operação nem é possível retroceder                        |              |                                                                               |
