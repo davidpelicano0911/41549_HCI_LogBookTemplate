@@ -8,9 +8,9 @@ Work carried out by:
 
 **Title of the project**: [Title goes here]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: Martina Duque Nº 113261
+- Student 2: David Pelicano Nº 113391
+- Student 3: Tomás Oliveira Nº 113939
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
