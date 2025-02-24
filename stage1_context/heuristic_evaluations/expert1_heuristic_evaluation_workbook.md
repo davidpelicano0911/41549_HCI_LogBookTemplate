@@ -28,19 +28,11 @@ Não foram identificados problemas para o tópico #1, uma vez que, ao concluir a
 >	- Will user be familiar with the terminology used in the design? 
 >	- Do the design’s controls follow real-world conventions?
 
-| **Issue**                                           | **Severity**     |            Recommendation                                |
-| ---------------                                     | ------------     |            --------------                                |
-| As descrições de vagas como "Marketing Specialist"  |                  | Especificar melhor as funções nas descrições de cargos   |
-| ou "Sales Executive" podem ser genéricas e não      |       2          | e associá-los aos valores da empresa. Por exemplo:       |
-| refletem diretamente a cultura ou o foco específico |                  | "Especialista em Marketing de Performance, com foco em   |
-| da empresa, o que pode criar confusão.              |                  | inovação e crescimento contínuo" ou "Executivo de Vendas |
-|                                                     |                  | e crescimento em equipa" para alinhar melhor com a       |
-|                                                     |                  | cultura da empresa.                                      |
-|-----------------------------------------------------------------------------------------------------------------------------------|
-| O uso de expressões como KPIs e NPS pode ser confuso|                  | Explicar essas métricas de forma acessível, como "medidas|
-| para um público que não esteja familiarizado com    |      3           | de sucesso" ou "avaliação da satisfação dos clientes",   |
-| termos técnicos ou de avaliação de desempenho.      |                  | para garantir que todos os utilizadores compreendam      |
-|                                                     |                  | facilmente o impacto dessas medições no serviço oferecido|
+| **Issue**                                               | **Severity** | **Recommendation**                                                                            |
+| ------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------- |
+| As descrições de vagas como "Marketing Specialist" ou "Sales Executive" podem ser genéricas e não refletem diretamente a cultura ou o foco específico da empresa. | 2            | Especificar melhor as funções nas descrições de cargos e associá-los aos valores da empresa. Por exemplo: "Especialista em Marketing de Performance" ou "Executivo de Vendas e crescimento em equipa". |
+| O uso de expressões como KPIs e NPS pode ser confuso para um público que não esteja familiarizado com termos técnicos ou de avaliação de desempenho. | 3            | Explicar essas métricas de forma acessível, como "medidas de sucesso" ou "avaliação da satisfação dos clientes", para garantir que todos os utilizadores compreendam facilmente o impacto dessas medições no serviço oferecido. |
+
                   
 
 # 3 User Control and Freedom
