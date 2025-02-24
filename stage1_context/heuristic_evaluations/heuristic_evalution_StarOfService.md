@@ -58,9 +58,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design warn users before they perform risky actions?
 
 | **Issue**                                                 | **Severity** | Recommendation                                                                      
-| Quando fecho um serviço que tinha pedido não aparece      | 4            | Colocar pré-condições em operaçõoes sensíveis por exemplo "Tem a certeza que  |                                                                                         
+| Quando fecho um serviço que tinha pedido não aparece      | 4            | Colocar pré-condições em operaçõoes sensíveis por exemplo "Tem a certeza que  |         
 | nenhuma opção para confirmar se quero mesmo realizar esta |              | pretende excluir o serviço?"                                                  |
-| operação nem é possível retroceder                        |
+| operação nem é possível retroceder                        |              |                                                                               |
 
 
 # 6 Recognition Rather than Recall
@@ -79,9 +79,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                               | **Severity** | Recommendation                                                    |
 | Não existe quaisquer distinção entre utilizadores       |  1           | Quando já não é a primeira vez que o cliente realiza uma operação |
 | experientes e não experientes tanto que sempre que      |              | não é necessário aparecer essa mensagem                           |
-| crio um serviço é me apresentada uma confirmação que    |
-| irão aparecer perguntas de forma a recomendar           |
-| profissionais                                           
+| crio um serviço é me apresentada uma confirmação que    |              |                                                                   |
+| irão aparecer perguntas de forma a recomendar           |              |                                                                   |
+| profissionais                                           |              |                                                                   |
 
 
 
@@ -90,9 +90,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Is the visual design and content focused on the essentials? 
 >	- Have all distracting, unnescessary elements been removed?
 
-| **Issue**                                             | **Severity** | Recommendation                                                                                |
-| Nas informações especificas de um projeto existe      | 3            | Organizar informação de uma forma mais clara
-| muita informação tornando-se tudo muito confuso            
+| **Issue**                                             | **Severity** | Recommendation                                |
+| Nas informações especificas de um projeto existe      | 3            | Organizar informação de uma forma mais clara  |
+| muita informação tornando-se tudo muito confuso       |              |                                               |
 
 
 
