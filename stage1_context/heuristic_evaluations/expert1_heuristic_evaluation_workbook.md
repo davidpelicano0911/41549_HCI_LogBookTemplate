@@ -42,17 +42,10 @@ Não foram identificados problemas para o tópico #1, uma vez que, ao concluir a
 >	- Can users easily cancel an action? 
 >	- Is Undo and Redo supported?
 
-| **Issue**                                           | **Severity**     |            Recommendation                                  |
-| ---------------                                     | ------------     |            --------------                                  |
-| O design não permite fácil reversão de ações ou     |                  | Adicionar um botão de "Voltar" ou "Cancelar",visível       |
-| saída do processo sem complicação.                  |       3          | durante todo o processo, para permitir que o utilizador    |
-|                                                     |                  | saia facilmente sem ter que passar por etapas adicionais   |
-|-------------------------------------------------------------------------------------------------------------------------------------|
-| Falta de uma opção de "Desfazer" ou "Refazer" em    |                  | Implementar uma funcionalidade de "Desfazer" e "Refazer"   |
-| ações que podem ser corrigidas facilmente.          |      4           | para ações,especialmente em áreas de                           
-|                                                     |                  | personalização ou edição de  
-|                                                     |                  | dados                                                          
-                                                      
+| **Issue**                                           | **Severity**     | **Recommendation**                                                                 |
+| --------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------- |
+| O design não permite fácil reversão de ações ou saída do processo sem complicação. | 3                | Adicionar um botão de "Voltar" ou "Cancelar", visível durante todo o processo, para permitir que o utilizador saia facilmente sem ter que passar por etapas adicionais. |
+| Falta de uma opção de "Desfazer" ou "Refazer" em ações que podem ser corrigidas facilmente. | 4                | Implementar uma funcionalidade de "Desfazer" e "Refazer" para ações, especialmente em áreas de personalização ou edição de dados. |
 
 
 # 4 Consistency and Standards
@@ -60,12 +53,9 @@ Não foram identificados problemas para o tópico #1, uma vez que, ao concluir a
 >	- Does the design follow industry conventions? 
 >	- Are visual treatments used consistently throughout the design?
 
-| **Issue**                                           | **Severity**     |            Recommendation                                |
-| ---------------                                     | ------------     |            --------------                                |
-| Diferentes padrões para a exibição de erros em      |                  | Adotar um sistema unificado para feedback de erros,      |
-| campos: Algumas mensagens de erro aparecem em       |       1          | garantindo que todas as mensagens sejam exibidas no mesmo|
-| vermelho abaixo dos campos, equanto outras aparecem |                  | formato e local, de acordo com as melhores práticas      |
-| como pop-ups ou em locais diferentes na tela.       |                  |                                                          |
+| **Issue**                                           | **Severity**     | **Recommendation**                                                                    |
+| --------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------ |
+| Diferentes padrões para a exibição de erros em campos: Algumas mensagens de erro aparecem em vermelho abaixo dos campos, enquanto outras aparecem como pop-ups ou em locais diferentes na tela. | 1                | Adotar um sistema unificado para feedback de erros, garantindo que todas as mensagens sejam exibidas no mesmo formato e local, de acordo com as melhores práticas. |
 
 
 
@@ -100,15 +90,10 @@ Não foram identificados problemas para o tópico #6, uma vez que, ao concluir a
 >	- Is content and funtionality personalized or customized for individual users?
 
 
-| **Issue**                                           | **Severity**     |            Recommendation                                |
-| ---------------                                     | ------------     |            --------------                                |
-| Falta de atalhos para facilitar a navegação rápida  |                  |Implementar atalhos de teclado ou gestos táteis para ações|
-| para utilizadores inexperientes.                    |       3          |frequentes, como preencher rapidamente formulários ou     |
-|                                                     |                  |navegar entre secções.                                    |
-|-----------------------------------------------------------------------------------------------------------------------------------|
-| Ausência de personalização na experiência do        |                  |Permitir que os utilizadores guardem preferências, filtrem|
-| utilizador                                          |      3           |oportunidades de trabalho de acordo com critérios         |
-|                                                     |                  |específicos e recebam recomendações personalizadas        |
+| **Issue**                                           | **Severity**     | **Recommendation**                                                                            |
+| --------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------- |
+| Falta de atalhos para facilitar a navegação rápida para utilizadores inexperientes. | 3                | Implementar atalhos de teclado ou gestos táteis para ações frequentes, como preencher rapidamente formulários ou navegar entre secções. |
+| Ausência de personalização na experiência do utilizador. | 3                | Permitir que os utilizadores guardem preferências, filtrem oportunidades de trabalho de acordo com critérios específicos e recebam recomendações personalizadas. |
 
 
 
@@ -121,12 +106,9 @@ Não foram identificados problemas para o tópico #6, uma vez que, ao concluir a
 >	- Have all distracting, unnescessary elements been removed?
 
 
-| **Issue**                                           | **Severity**     |            Recommendation                                |
-| ---------------                                     | ------------     |            --------------                                |
-| Excesso de texto em algumas páginas como por exemplo|                  | Resumir o conteúdo, destacando as informações principais |
-| na Overview que têm descrições, requisitos          |       3          | e fornecendo links ou botões "Ler mais" para detalhes    |
-| e benefícios muito grandes, entre outros.           |                  | adicionais.                                              |
-
+| **Issue**                                           | **Severity**     | **Recommendation**                                                                            |
+| --------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------- |
+| Excesso de texto em algumas páginas, como por exemplo na Overview, que têm descrições, requisitos e benefícios muito grandes, entre outros. | 3                | Resumir o conteúdo, destacando as informações principais e fornecendo links ou botões "Ler mais" para detalhes adicionais. |
 
 
 
@@ -150,9 +132,6 @@ No caso do tópico #9 , não foram identificados problemas, pois o site já impl
 >	- Is help documentation easy to search? 
 >	- Is help provided in context right at the moment when the user requires it?
 
-| **Issue**                                           | **Severity**     |            Recommendation                                |
-| ---------------                                     | ------------     |            --------------                                |
-| A secção de ajuda existe, mas não é facilmente      |                  |  Tornar a seccção de ajuda mais visível e acessível      |
-| acessível para o utilizador, porque não aparece na  |       3          |  diretamente no site, com links ou ícones em áreas chave.|
-| página principal e só aparece na página do "Join Us"|                  |                                                          |
-| , contudo só aparece no final da página em pequeno. |                  |                                                          |
+| **Issue**                                           | **Severity**     | **Recommendation**                                                                            |
+| --------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------- |
+| A secção de ajuda existe, mas não é facilmente acessível para o utilizador, porque não aparece na página principal e só aparece na página do "Join Us", contudo só aparece no final da página em pequeno. | 3                | Tornar a secção de ajuda mais visível e acessível diretamente no site, com links ou ícones em áreas chave. |
