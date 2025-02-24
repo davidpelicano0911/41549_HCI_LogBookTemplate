@@ -74,12 +74,10 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
 >	- Is content and funtionality personalized or customized for individual users?
 
-| **Issue** | **Severity** | Recommendation|
-| Não existe quaisquer distinção entre utilizadores       |  1           | Quando já não é a primeira vez que o cliente realiza uma operação  
-  experientes e não experientes tanto que sempre que                       não é necessário aparecer essa mensagem                           |
-  crio um serviço é me apresentada uma confirmação que                                                                                      
-  irão aparecer perguntas de forma a recomendar                                                                                             
-  profissionais                                           |                                                                                
+
+| **Issue**                                               | **Severity** | **Recommendation**                                                                 |
+|---------------------------------------------------------|-------------|-----------------------------------------------------------------------------------|
+| Não existe qualquer distinção entre utilizadores experientes e não experientes, <br> tanto que sempre que crio um serviço, é-me apresentada uma confirmação <br> de que irão aparecer perguntas para recomendar profissionais. | 1           | Quando o cliente já realizou uma operação anteriormente, <br> não é necessário exibir essa mensagem. |
 
 
 # 8 Aesthetic and Minimalist Design
@@ -87,9 +85,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Is the visual design and content focused on the essentials? 
 >	- Have all distracting, unnescessary elements been removed?
 
-| **Issue**                                             | **Severity** | Recommendation                                |
-| Nas informações especificas de um projeto existe      | 3            | Organizar informação de uma forma mais clara  |
-| muita informação tornando-se tudo muito confuso       |              |                                               |
+| **Issue**                                              | **Severity** | **Recommendation**                                 |
+|--------------------------------------------------------|-------------|---------------------------------------------------|
+| Nas informações específicas de um projeto, existe muita informação, <br> tornando-se tudo muito confuso. | 3           | Organizar a informação de uma forma mais clara. |
 
 
 
