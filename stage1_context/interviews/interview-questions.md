@@ -67,3 +67,44 @@
 9. **Se pudesse criar a aplicação ideial, o que faria?**
 
 
+## Interview 3 
+- **Context:**  Someone who administrate the project
+
+## QUESTIONS
+ 
+1. **Pode contar-me um pouco sobre a sua experiência anterior na gestão de plataformas online?**
+
+2. **Já trabalhou com moderação de conteúdos, suporte ao cliente ou gestão de utilizadores? Como foi essa experiência?**
+
+3. **Quais considera serem os maiores desafios na administração de uma plataforma que conecta clientes e prestadores de serviço?** 
+
+4. **Como garantiria que apenas profissionais confiáveis estivessem registados na plataforma?**
+
+5. **Como lidaria com reclamações ou disputas entre clientes e prestadores de serviço?** 
+
+6. **Como acha que um sistema de avaliações e feedbacks pode ser melhorado para manter a credibilidade da plataforma?**
+
+7. **Quais regras ou diretrizes acredita que deveriam ser aplicadas para manter a qualidade e segurança dos serviços oferecidos?**
+
+8. **Que tipo de verificações acha que devem ser feitas ao registar um prestador de serviço?**
+
+7. **Acha importante que haja um canal direto para denúncias e reclamações dentro da aplicação? Como geriria esses casos?**
+
+9. **Como acha que a equipa de suporte deve lidar com problemas técnicos e reclamações de utilizadores?**
+
+10. **O que considera essencial para oferecer um atendimento eficiente aos utilizadores da plataforma?**
+
+11. **Como avaliaria o sucesso da plataforma? Que métricas ou indicadores consideraria mais importantes?**
+
+12. **Que tipo de funcionalidades gostaria de ver numa plataforma deste tipo?**
+
+13. **Que funcionalidades considera imprescindiveis para a gestão da aplicação?**
+
+14. **Como garantiria que a aplicação está sempre a evoluir e a acompanhar as necessidades dos utilizadores?**
+
+15. **Há algo mais que gostaria de partilhar sobre como administraria uma aplicação como esta?**
+
+16. **Se pudesse sugerir uma funcionalidade inovadora para a plataforma, qual seria?**
+
+
+

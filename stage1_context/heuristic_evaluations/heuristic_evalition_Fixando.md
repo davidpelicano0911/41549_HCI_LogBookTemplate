@@ -1,108 +1,117 @@
+<!-- This Heuristic Evaluation Workbook replicates the one proposed by the 
+Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
+-->
+
+**Evaluator**: Martina Duque
+**Date**: [24-02-2025]
+**Product**: [Fixando]
+
+Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
+Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
+
+# 1 Visibility of System Status
+>	The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. 
+>	- Does the design clearly communicate its state?
+>	- Is feedback presented quickly after user actions?
 
 
-**Avaliador**: Martina Duque  
-**Data**: 24-02-2025  
-**Produto**: Fixando  
 
 
-## 1. Visibilidade do Estado do Sistema  
+
+# 2 Match Between System and The Real World
+>	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
+>	- Will user be familiar with the terminology used in the design? 
+>	- Do the design’s controls follow real-world conventions?
+
+| **Issue**                                           | **Severity** | Recommendation                                                                  |
+| ---------------                                     | ------------ | --------------                                                                  |
+| Questionário muito confuso, quando feita a pesquisa | 3            | Melhorar a estrutura do questionário, organizando perguntas de forma progressiva|
+| Muitas opções expostas                              | 3            | Utilizar agrupamentos lógicos e filtros progressivos para simplificar a escolha |
 
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Após enviar um pedido, não há confirmação clara de que foi recebido. | **3** | Exibir uma mensagem de confirmação imediata após o envio do pedido, detalhando os próximos passos. |
-| Durante o carregamento de páginas, não há indicação visual de progresso. | **2** | Adicionar um indicador de carregamento (ex.: spinner, barra de progresso) para informar o usuário. |
 
----
 
-## 2. Correspondência entre o Sistema e o Mundo Real  
-> O design deve falar a linguagem dos usuários e seguir convenções do mundo real.
+# 3 User Control and Freedom
+>	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
+>	- Does the design allow users to go back a step in the process? 
+>	- Are exit links easily discoverable? 
+>	- Can users easily cancel an action? 
+>	- Is Undo and Redo supported?
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Uso de termos técnicos como "briefing" e "match", que podem não ser familiares a todos os usuários. | **2** | Substituir termos técnicos por expressões mais comuns ou fornecer explicações curtas. |
-| Ícones de algumas categorias de serviços não são intuitivos. | **2** | Revisar os ícones para garantir que sejam representativos da categoria. |
+| **Issue**                                        | **Severity**    | Recommendation                                                        |
+| ---------------                                  | ------------    |--------------                                                         |
+| Por vezes, não é possível retroceder na pesquisa | 4               | Adicionar um botão "Voltar" ou permitir edição de respostas anteriores|
 
----
 
-## 3. Controle e Liberdade do Usuário  
-> O design deve permitir desfazer ações e sair facilmente de fluxos indesejados.
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Não há opção para cancelar um pedido após o envio. | **4** | Implementar um sistema que permita cancelamento dentro de um período razoável. |
-| Durante o preenchimento de formulários, não há botão "Voltar" para corrigir etapas anteriores. | **3** | Adicionar botões para navegar entre as etapas do formulário. |
 
----
+# 4 Consistency and Standards
+>	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
+>	- Does the design follow industry conventions? 
+>	- Are visual treatments used consistently throughout the design?
 
-## 4. Consistência e Padrões  
-> O design deve ser coerente em nomenclatura, ícones, cores e comportamento.
+| **Issue**                                                 | **Severity** | Recommendation                                                                      |
+| ---------------                                           | ------------ | --------------                                                                      |
+| Mudança de idioma pouco intuitiva, difícil de encontrar   | 2            | Tornar as opções de idioma visível e acessível no cabeçalho ou menu principal       |
+| Visualmente pouco atrativo                                | 1            | Melhorar o design com layout mais cleam, paleta de cores equilibrada e consistente  |
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Botões de ação possuem estilos diferentes em várias partes do site. | **2** | Unificar o estilo dos botões para manter a consistência visual. |
-| Algumas páginas utilizam layouts distintos, causando confusão na navegação. | **3** | Adotar um layout padrão em todas as páginas. |
 
----
 
-## 5. Prevenção de Erros  
-> O design deve prever e evitar erros antes que aconteçam.
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Campos de formulário aceitam entradas inválidas sem aviso. | **3** | Implementar validação em tempo real nos formulários. |
-| Não há avisos antes de ações que podem resultar em perda de dados. | **4** | Adicionar mensagens de confirmação antes de ações irreversíveis. |
+# 5 Error Prevention
+>	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
+>	- Does the design prevent slips by using helpful constraints? 
+>	- Does the design warn users before they perform risky actions?
 
----
 
-## 6. Reconhecimento em vez de Recordação  
-> O design deve reduzir a carga de memória do usuário e tornar ações e informações acessíveis.
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Navegação entre categorias de serviços requer múltiplos cliques, dificultando a lembrança do caminho de volta. | **3** | Melhorar a estrutura de navegação e adicionar breadcrumbs. |
-| Falta de descrições ou dicas contextuais para campos de entrada. | **2** | Adicionar tooltips para auxiliar o preenchimento de formulários. |
 
----
+# 6 Recognition Rather than Recall
+>	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
+>	- Does the design keep important information visible, so that users do not have to memorize it? 
+>	- Does the design offer help in-context?
 
-## 7. Flexibilidade e Eficiência de Uso  
-> O design deve oferecer atalhos para usuários experientes e permitir personalização.
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Não há atalhos de teclado para navegação rápida. | **2** | Implementar atalhos para funções essenciais. |
-| O site não lembra preferências ou histórico de serviços pesquisados. | **3** | Adicionar histórico e recomendações personalizadas. |
 
----
 
-## 8. Design Estético e Minimalista  
-> O design deve priorizar informações essenciais e eliminar elementos distrativos.
+# 7 Flexibility and Efficiency of Use
+>	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
+>	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
+>	- Is content and funtionality personalized or customized for individual users?
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Algumas páginas contêm informações em excesso, tornando a interface poluída. | **3** | Reduzir o volume de texto e priorizar informações essenciais. |
-| Elementos visuais inconsistentes podem desviar a atenção do usuário. | **2** | Unificar o design visual para evitar distrações. |
+| **Issue**                                                             | **Severity** | Recommendation                                                  |
+| ---------------                                                       | ------------ | --------------                                                  |
+| Pedir o número de telefone obrigatóriamente quando feito o registo    | 3            | Oferta de opções de contato, como um sistema de chat integrado  |
 
----
 
-## 9. Ajuda os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros  
-> O design deve fornecer mensagens de erro claras e soluções para corrigi-las.
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| Mensagens de erro não são claras ou específicas. | **3** | Reformular mensagens para indicar claramente o problema e sugerir soluções. |
-| Falta um sistema de suporte imediato para dúvidas e problemas. | **4** | Implementar um chatbot ou seção de perguntas frequentes acessível. |
 
----
 
-## 10. Ajuda e Documentação  
-> O sistema deve fornecer documentação e suporte ao usuário quando necessário.
+# 8 Aesthetic and Minimalist Design
+>	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
+>	- Is the visual design and content focused on the essentials? 
+>	- Have all distracting, unnescessary elements been removed?
 
-| **Problema** | **Severidade** | **Recomendação** |
-|--------------|---------------|------------------|
-| A seção de ajuda não é facilmente encontrada na interface. | **3** | Tornar a documentação mais acessível com um link visível no menu principal. |
-| Não há suporte contextual ao longo da navegação. | **2** | Adicionar explicações curtas ou tooltips nos pontos críticos da interface. |
+| **Issue**                  | **Severity** | Recommendation                                                                                |
+| ---------------            | ------------ | --------------                                                                                |
+| Visualmente pouco atrativo | 1            | Tornar o layout do site mais clean e apreciavél                                               |
+| Muitas opções expostas     | 2            |  Simplificar as opções através de grupos e figuras alusivas ao conteúdo do tópico             |
 
----
 
-Esta análise cobre os principais problemas identificados no site da **Fixando** de acordo com as heurísticas de usabilidade de Nielsen e a escala de severidade definida. Se precisar de ajustes ou aprofundamento em alguma área específica, avisa-me! 🚀
+
+
+
+# 9 Help Users Recognize, Diagnose, and Recover from Errors
+>	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
+>	- Does the design use traditional error message visuals, like bold, red text? 
+>	- Does the design offer a solution that solves the error immediately?
+
+
+
+
+
+# 10 Help and Documentation
+>	It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. 
+>	- Is help documentation easy to search? 
+>	- Is help provided in context right at the moment when the user requires it?
+
