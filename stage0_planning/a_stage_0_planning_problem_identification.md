@@ -5,8 +5,8 @@
 >	Here you will briefly explain the domain of the problem you identified, briefly identify general challenges and, then, state you problem
 
 # Context
-Este projeto centra-se na criação de uma aplicação mobile que conecte pessoas que precisam de um serviço específico com aquelas que estão dispostas a oferece-lo. A plataforma terá duas vertentes principais:  
-1. **Para quem procura um serviço:** Utilizadores que necessitam de contratar alguém para realizar tarefas como passar a ferro, limpar a casa, cuidar do jardim, cozinhar para eventos, entre outras.  
+Este projeto centra-se na criação de uma plataforma digital que conecte pessoas que precisam de um serviço específico com aquelas que estão dispostas a oferecê-lo. A plataforma terá duas vertentes principais:  
+1. **Para quem procura um serviço:** Utilizadores que necessitam de contratar alguém para realizar tarefas como passar a ferro, limpar a casa, cuidar do jardim, cozinhar para eventos,passear animais, entre outras.  
 2. **Para quem oferece um serviço:** Profissionais ou particulares que desejam divulgar os seus serviços e encontrar clientes de forma fácil e eficiente.  
 
 Atualmente, muitas destas contratações são feitas de maneira informal, através de redes sociais, grupos comunitários ou recomendações boca a boca. No entanto, esses métodos podem ser ineficazes, inseguros e pouco organizados. A nossa aplicação visa digitalizar e estruturar este processo, tornando-o mais acessível, rápido e confiável.  
