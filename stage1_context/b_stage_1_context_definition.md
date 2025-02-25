@@ -14,11 +14,9 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Fixando](../competitors/Competitor%20Analysis%20Fixando.md) | Plataforma de contratação de serviços com +1200 categorias | [📄 Competitor Analysis Fixando](../competitors/Competitor%20Analysis%20Fixando.md) |
-| [StarOfService](../stage1_context/competitors/Competitor%20Analysis%20StarOfService.md) | Marketplace de serviços com sistema de matching automático | [📄 Competitor Analysis StarOfService](../stage1_context/competitors/Competitor%20Analysis%20StarOfService.md) |
-| [YourHero](../competitors/Competitor%20Analysis%20YourHero.md) | Plataforma para serviços domésticos e empresariais | [📄 Competitor Analysis YourHero](../competitors/Competitor%20Analysis%20YourHero.md) |
-
-
+| [Fixando](competitors/Competitor%20Analysis%20Fixando.md) | Plataforma de contratação de serviços com +1200 categorias | [📄 Competitor Analysis Fixando](competitors/Competitor%20Analysis%20Fixando.md) |
+| [StarOfService](competitors/Competitor%20Analysis%20StartOfService.md) | Marketplace de serviços com sistema de matching automático | [📄 Competitor Analysis StarOfService](competitors/Competitor%20Analysis%20StartOfService.md) |
+| [YourHero](competitors/Competitor%20Analysis%20YourHero.md) | Plataforma para serviços domésticos e empresariais | [📄 Competitor Analysis YourHero](competitors/Competitor%20Analysis%20YourHero.md) |
 
 
 ## B.1b. Detailed Competitor Analysis
