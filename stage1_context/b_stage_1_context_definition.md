@@ -102,7 +102,6 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 | **1. Contratar serviço(cliente)** | Pesquisar pelo serviço desejado                                                          |
 |                                   | Preencher os campos que o cliente deseja                                                 |
 |                                   | Escolher entre os profissionais sugeridos ou só esperar pelo contacto de um profissional |
-|                                   |                                                                                          |
 
 | Task                    | Subtasks                                                                         |
 | ----------------------- | -------------------------------------------------------------------------------- |
@@ -111,7 +110,6 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 |                         | Escolher a opção "Contactar Cliente"                                             |
 |                         | Escolher a opção "Comprar o lead" para entrar em contacto com o cliente          |
 |                         | Entrar em contacto com o cliente                                                 |
-| Results                 |                                                                                  |
 
 Task: [This is the task]
 
@@ -162,27 +160,35 @@ Para este tópico, foi criado um guião de entrevista. O objetivo destas era ide
 
 ### Interview List
 
-| Date       | Participant / Role | Key Insights                                                         | Link to Notes                |
-| ---------- | ------------------ | -------------------------------------------------------------------- | ---------------------------- |
-| 23-02-2025 | Ana Pardal         | Pessoa que costuma oferecer serviços de freelancing                  | [📄 Entrevista](interviews/interview_Ana.md) |
-| 24-02-2025 | Guilherme Pereira  | Aluno que já requesitou serviços através de alguma plataforma online | [📄 Entrevista](interviews/interview_Guilherme.md)                             |
+| Date       | Participant / Role | Key Insights                                                         | Link to Notes                                      |
+| ---------- | ------------------ | -------------------------------------------------------------------- | -------------------------------------------------- |
+| 23-02-2025 | Ana Pardal         | Pessoa que costuma oferecer serviços de freelancing                  | [📄 Entrevista](interviews/interview_Ana.md)       |
+| 24-02-2025 | Guilherme Pereira  | Aluno que já requesitou serviços através de alguma plataforma online | [📄 Entrevista](interviews/interview_Guilherme.md) |
+
+### 
 
 ### Common Themes & Patterns
 
 - **Recurring Problems:** 
-  - Issue 1
-  - Issue 2
+  
+  - Dificuldade em encontrar informações requeridas sobre os serviços.
+  - Fluxo de navegação pouco intuitivo, especialmente ao alternar entre cliente e prestador.
+  - Ausência de confirmações antes de ações críticas, levando a erros acidentais.
+    
+    
+
 - **Frequently Used Tools:** 
-  - Tool 1
-  - Tool 2
+  
+  - Uso de e-mail ou um chat dentro do website para complementar a comunicação entre clientes e prestadores.
+  - Plataformas concorrentes como Fixando e YourHero para comparação de preços e serviços.
+    
+    
+
 - **Desired Features / Solutions:** 
-  - Feature 1
-  - Feature 2
-
-- --- 
-
----
+  
+  - Melhor organização das informações e filtragem de serviços.
+  - Mensagens guiadas e onboarding interativo para novos utilizadores.
+    
+    
 
 [Back to main Logbook Page](../hci_logbook.md)
-
----
