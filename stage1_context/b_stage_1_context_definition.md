@@ -19,39 +19,14 @@
 ## B.1b. Detailed Competitor Analysis
 
 >    Choose the most notable competitor and do a more thorough analysis of their interactive solution
-<<<<<<< HEAD
-=======
 
 Para uma análise mais aprofundada, escolhemos o StarofService como principal concorrente devido à sua proximidade com o conceito do nosso projeto. Esta plataforma destaca-se por conectar profissionais de diversos setores a clientes que necessitam de serviços específicos, simplificando o processo de contratação. O StarofService apresenta uma interface simplificada o que facilita a utilização do website tanto para profissionais quanto para clientes. O fluxo de interação é direto, permitindo que os utilizadores encontrem rapidamente os serviços que desejam.
->>>>>>> refs/remotes/origin/main
 
 ### - Heuristic Evaluation
 
 #### Method
-A avaliação heurística foi realizada tendo por base no método de **Nielsen**, utilizando um conjunto de heurísticas predefinidas para avaliar a usabilidade da plataforma **StarOfService**. O processo seguiu os seguintes passos:
 
-### 1. Seleção das Heurísticas  
-Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
-
-### 2. Procedimento de Avaliação  
-- Cada um dos elementos do grupo avaliou a plataforma de forma independente, identificando problemas de usabilidade com base nas heurísticas selecionadas. 
-- Foi utilizada uma escala de gravidade para classificar os problemas encontrados, escala este previamente atribuida pelos docentes da cadeira
-
-### 3. Número de Especialistas  
-- A avaliação foi conduzida pelos alunos **113261**, **113391** e **113939**. 
-
-### 4. Escala de Gravidade  
-- **0**: Não é um problema de usabilidade 
-- **1**: Problema cosmético (pode ser corrigido se houver tempo) 
-- **2**: Pequeno problema de usabilidade (correção desejável, mas não essencial) 
-- **3**: Problema de usabilidade importante (deve ser corrigido) 
-- **4**: Problema crítico (deve ser corrigido com urgência) 
-
-### 5. Processo de Consenso  
-- Após a análise individual, reuni-mos para discutir os problemas identificados. 
-- Nos casos em que um problema foi identificado por apenas um especialista, os outros foram convidados a reavaliá-lo para determinar se deveria ser incluído na lista final. 
-- Os problemas foram classificados por gravidade e recomendações de melhoria foram propostas.
-
+[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
 #### Individual Evaluations
 
@@ -65,13 +40,6 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 
 >    After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-<<<<<<< HEAD
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
-=======
 | **Issue**                                                                                                                                                                                                                                                          | **Expert 1 -  113261** | **Expert 2 -  113391** | **Expert 3 -  113939** | Recommendations                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- | ---------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | O nome do serviço necessita de ser sempre válido, o que pode ser confuso para utilizadores que designam o serviço de forma diferente.                                                                                                                              | 3                      | X                      | X                      | Implementar sugestões automáticas e um sistema de reconhecimento de sinónimos.                                                                                                                                                                             |
@@ -89,7 +57,6 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 | O site é difícil de navegar e exige alguma aprendizagem.                                                                                                                                                                                                           | 3                      | X                      | X                      | Melhorar a estrutura de navegação para facilitar o uso.                                                                                                                                                                                                    |
 | O excesso de informação nas páginas de projetos torna a visualização confusa, dificultando a identificação dos detalhes mais relevantes.                                                                                                                           | X                      | X                      | 3                      | Organizar a informação de uma forma mais clara.                                                                                                                                                                                                            |
 | Durante a navegação houve um server error.                                                                                                                                                                                                                         | 2                      | X                      | X                      | Melhorar a gestão de erros do servidor.                                                                                                                                                                                                                    |
->>>>>>> refs/remotes/origin/main
 
 ---
 
@@ -99,11 +66,11 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
 
+
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
-<<<<<<< HEAD
 | Task                              | Subtasks                                                                                 |
 | --------------------------------- | ---------------------------------------------------------------------------------------- |
 | **1. Contratar serviço(cliente)** | Pesquisar pelo serviço desejado                                                          |
@@ -118,23 +85,7 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 |                         | Escolher a opção "Contactar Cliente"                                             |
 |                         | Escolher a opção "Comprar o lead" para entrar em contacto com o cliente          |
 |                         | Entrar em contacto com o cliente                                                 |
-=======
-| Task                        | Subtasks                               |
-| --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
-
-| Task                          | Subtasks                                |
-| ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
->>>>>>> refs/remotes/origin/main
-
-#### Results
+ Results
 
 Task: [This is the task]
 
