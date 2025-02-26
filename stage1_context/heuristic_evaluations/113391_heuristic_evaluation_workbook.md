@@ -16,9 +16,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 > - Does the design clearly communicate its state?
 > - Is feedback presented quickly after user actions?
 
-| **Issue**                                                                                                                                                   | **Severity** | Recommendation                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunicação excessiva e spam: Existe um grande volume de e-mails promocionais indesejados, mesmo após o utilizador solicitar a remover as suas informações. | 3            | Oferecer opções claras para que os utilizadores gerenciem suas preferências de comunicação e respeitar imediatamente as solicitações de remoção de listas de e-mail. |
 
 # 2 Match Between System and The Real World
 

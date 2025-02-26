@@ -19,6 +19,11 @@
 ## B.1b. Detailed Competitor Analysis
 
 >    Choose the most notable competitor and do a more thorough analysis of their interactive solution
+<<<<<<< HEAD
+=======
+
+Para uma análise mais aprofundada, escolhemos o StarofService como principal concorrente devido à sua proximidade com o conceito do nosso projeto. Esta plataforma destaca-se por conectar profissionais de diversos setores a clientes que necessitam de serviços específicos, simplificando o processo de contratação. O StarofService apresenta uma interface simplificada o que facilita a utilização do website tanto para profissionais quanto para clientes. O fluxo de interação é direto, permitindo que os utilizadores encontrem rapidamente os serviços que desejam.
+>>>>>>> refs/remotes/origin/main
 
 ### - Heuristic Evaluation
 
@@ -38,11 +43,31 @@
 
 >    After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
+<<<<<<< HEAD
 | **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
 | Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
 | Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
 | ...             |              |          |          |                                             |
+=======
+| **Issue**                                                                                                                                                                                                                                                          | **Expert 1 -  113261** | **Expert 2 -  113391** | **Expert 3 -  113939** | Recommendations                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- | ---------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| O nome do serviço necessita de ser sempre válido, o que pode ser confuso para utilizadores que designam o serviço de forma diferente.                                                                                                                              | 3                      | X                      | X                      | Implementar sugestões automáticas e um sistema de reconhecimento de sinónimos.                                                                                                                                                                             |
+| O icone da bandeira apenas aparece para o idioma selecionado, o que pode ser problemático para pessoas de outros idiomas.                                                                                                                                          | 2                      | X                      | X                      | Mostrar todas as opções de idioma e adicionar bandeiras para facilitar a identificação visual.                                                                                                                                                             |
+| As designações usadas por vezes não são as melhores.                                                                                                                                                                                                               | 3                      | X                      | 2                      | Rever e melhorar os termos utilizados para serem mais intuitivos e alinhados com o vocabulário dos utilizadores.                                                                                                                                           |
+| O fluxo de navegação é confuso, dificultando a solicitação de serviços ou candidaturas como prestador. A falta de distinção entre ações para clientes e profissionais causa frustração.                                                                            | X                      | 3                      | X                      | Reestruturar o site para diferenciar claramente clientes e profissionais. Incluir botões e seções específicas, como “Solicitar um serviço” e “Torne-se um prestador”. Melhorar a navegação com mensagens guiadas e onboarding interativo.                  |
+| Em diversas páginas é difícil retornar à página inicial de pesquisa.                                                                                                                                                                                               | 4                      | 4                      | 4                      | Adicionar um botão claro de retorno à página inicial.                                                                                                                                                                                                      |
+| Ausência de botões de "Cancelar" ou "Sair" em processos multi-etapas. Os utilizadores dependem de um pequeno ícone de "X", pouco visível, dificultando a interrupção do fluxo. Isso pode levá-los a concluir o processo involuntariamente ou a fechar o navegador. | X                      | 3                      | X                      | Adicionar botões de "Cancelar" e "Sair" visíveis e acessíveis em todas as etapas, com texto claro e tamanho adequado para facilitar a interrupção do processo.                                                                                             |
+| A barra de contratar serviço e procurar por um é diferente, mas isso não está indicado na página.                                                                                                                                                                  | 3                      | X                      | X                      | Especificar claramente a diferença entre ambas as barras.                                                                                                                                                                                                  |
+| O layout muda significativamente entre os modos Cliente e Prestador, causando confusão na navegação e adaptação. Isso dificulta a experiência dos utilizadores ao alternar entre os perfis.                                                                        | X                      | 2                      | X                      | Padronizar o layout entre os modos Cliente e Prestador, garantindo consistência visual e estrutural. Se houver diferenciação, manter as mudanças sutis e intuitivas, destacando apenas elementos essenciais sem comprometer a familiaridade do utilizador. |
+| As opções do questionário por vezes não cobrem todas as necessidades dos utilizadores.                                                                                                                                                                             | 3                      | X                      | X                      | Permitir a adição de respostas personalizadas.                                                                                                                                                                                                             |
+| Ao fechar um serviço solicitado, não há opção de confirmação nem possibilidade de retroceder, podendo levar a encerramentos acidentais sem reversão.                                                                                                               | X                      | X                      | 4                      | Adicionar confirmação em operações sensíveis, como: **"Tem a certeza que pretende excluir o serviço?"**, permitindo ao utilizador cancelar ou confirmar a ação antes de prosseguir.                                                                        |
+| Ausência de confirmações antes de ações críticas, como marcar um pedido como "Não interessado". Isso pode levar a decisões acidentais ou impulsivas, dificultando a reversão da ação.                                                                              | X                      | 3                      | X                      | Adicionar diálogos de confirmação antes de ações críticas, como marcar desinteresse em um pedido. A mensagem deve alertar sobre as consequências e, se possível, permitir reversão dentro de um curto período.                                             |
+| O site, quando inicia a pesquisa, aparece sempre o mesmo pop-up, o que não é ideal para utilizadores experientes.                                                                                                                                                  | 2                      | X                      | 1                      | Ocultar mensagens repetitivas para clientes que já realizaram a operação anteriormente, evitando redundância e tornando a experiência mais fluida.                                                                                                         |
+| O site é difícil de navegar e exige alguma aprendizagem.                                                                                                                                                                                                           | 3                      | X                      | X                      | Melhorar a estrutura de navegação para facilitar o uso.                                                                                                                                                                                                    |
+| O excesso de informação nas páginas de projetos torna a visualização confusa, dificultando a identificação dos detalhes mais relevantes.                                                                                                                           | X                      | X                      | 3                      | Organizar a informação de uma forma mais clara.                                                                                                                                                                                                            |
+| Durante a navegação houve um server error.                                                                                                                                                                                                                         | 2                      | X                      | X                      | Melhorar a gestão de erros do servidor.                                                                                                                                                                                                                    |
+>>>>>>> refs/remotes/origin/main
 
 ---
 
@@ -56,6 +81,7 @@
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
+<<<<<<< HEAD
 | Task                              | Subtasks                                                                                 |
 | --------------------------------- | ---------------------------------------------------------------------------------------- |
 | **1. Contratar serviço(cliente)** | Pesquisar pelo serviço desejado                                                          |
@@ -70,6 +96,21 @@
 |                         | Escolher a opção "Contactar Cliente"                                             |
 |                         | Escolher a opção "Comprar o lead" para entrar em contacto com o cliente          |
 |                         | Entrar em contacto com o cliente                                                 |
+=======
+| Task                        | Subtasks                               |
+| --------------------------- | -------------------------------------- |
+| **1. Buyng a grammar book** | Search for available grammar books     |
+|                             | Identify a specific book from the list |
+|                             | Add the selected book to the cart      |
+|                             | Proceeed to checkout                   |
+
+| Task                          | Subtasks                                |
+| ----------------------------- | --------------------------------------- |
+| **1. Booking a train ticket** | Select departure and destination cities |
+|                               | Choose travel date and time             |
+|                               | Pick a seat (if applicable)             |
+|                               | Confirm booking and make payment        |
+>>>>>>> refs/remotes/origin/main
 
 #### Results
 
