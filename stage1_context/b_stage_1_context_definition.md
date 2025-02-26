@@ -22,6 +22,8 @@
 ## B.1b. Detailed Competitor Analysis
 >	Choose the most notable competitor and do a more thorough analysis of their interactive solution
 
+Para uma análise mais aprofundada, escolhemos o StarofService como principal concorrente devido à sua proximidade com o conceito do nosso projeto. Esta plataforma destaca-se por conectar profissionais de diversos setores a clientes que necessitam de serviços específicos, simplificando o processo de contratação. O StarofService apresenta uma interface simplificada o que facilita a utilização do website tanto para profissionais quanto para clientes. O fluxo de interação é direto, permitindo que os utilizadores encontrem rapidamente os serviços que desejam.
+
 
 ### - Heuristic Evaluation
 
