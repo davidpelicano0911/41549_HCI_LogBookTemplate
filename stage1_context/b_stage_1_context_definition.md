@@ -26,7 +26,30 @@ Para uma análise mais aprofundada, escolhemos o StarofService como principal co
 
 #### Method
 
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+A avaliação heurística foi realizada tendo por base no método de **Nielsen**, utilizando um conjunto de heurísticas predefinidas para avaliar a usabilidade da plataforma **StarOfService**. O processo seguiu os seguintes passos:
+
+### 1. Seleção das Heurísticas  
+Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
+
+### 2. Procedimento de Avaliação  
+- Cada um dos elementos do grupo avaliou a plataforma de forma independente, identificando problemas de usabilidade com base nas heurísticas selecionadas. 
+- Foi utilizada uma escala de gravidade para classificar os problemas encontrados, escala este previamente atribuida pelos docentes da cadeira
+
+### 3. Número de Especialistas  
+- A avaliação foi conduzida pelos alunos **113261**, **113391** e **113939**. 
+
+### 4. Escala de Gravidade  
+- **0**: Não é um problema de usabilidade 
+- **1**: Problema cosmético (pode ser corrigido se houver tempo) 
+- **2**: Pequeno problema de usabilidade (correção desejável, mas não essencial) 
+- **3**: Problema de usabilidade importante (deve ser corrigido) 
+- **4**: Problema crítico (deve ser corrigido com urgência) 
+
+### 5. Processo de Consenso  
+- Após a análise individual, reuni-mos para discutir os problemas identificados. 
+- Nos casos em que um problema foi identificado por apenas um especialista, os outros foram convidados a reavaliá-lo para determinar se deveria ser incluído na lista final. 
+- Os problemas foram classificados por gravidade e recomendações de melhoria foram propostas.
+
 
 #### Individual Evaluations
 
