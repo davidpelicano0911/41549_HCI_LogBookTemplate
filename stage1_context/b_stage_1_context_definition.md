@@ -66,7 +66,6 @@ Para uma análise mais aprofundada, escolhemos o StarofService como principal co
 
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
 
-
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
@@ -85,16 +84,16 @@ Para uma análise mais aprofundada, escolhemos o StarofService como principal co
 |                         | Escolher a opção "Contactar Cliente"                                             |
 |                         | Escolher a opção "Comprar o lead" para entrar em contacto com o cliente          |
 |                         | Entrar em contacto com o cliente                                                 |
- Results
+
+Results
 
 Task: [This is the task]
 
-| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
-| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| Step # | Task/Action to Perform                                                                | Will User Know What to do at this step? (Yes/No) | Notes                                                                                                                                                | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes                                                    | Is Action Successful? (Yes/No) | Suggestions for Improvement                                                                                                                              |     |
+| ------ | ------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1      | Pesquisar pelo serviço desejado                                                       | Yes                                              | A tarefa é clara contudo se for selecionado uma das opções de temáticas de serviços poderá ser confuso uma vez que aparecem candidaturas a trabalhos | Yes                                                                                       | Aparece um pop-up que representa progressos na ativdade  | Yes                            | Não deveria aparecer as opções de candidaturas a trabalhos. E na barra de pesquisas deveria ser possível procurar pelos sinónimos dos serviços desejados |     |
+| 2      | Preencher os campos que o cliente deseja                                              | Yes                                              | Bastante simples e imediata                                                                                                                          | Yes                                                                                       | Aparece uma barra de progressos                          | Yes                            |                                                                                                                                                          |     |
+| 3      | Escolher entre os profissionais sugeridos ou esperar pelo contacto de um profissional | Yes                                              |                                                                                                                                                      | No                                                                                        | Não é muito percetível que a tarefa tenha sido concluída | Yes                            | Aparece uma mensagem a confirmar que a tarefa foi concluída com sucesso                                                                                  |     |
 
 ---
 
@@ -135,4 +134,4 @@ Task: [This is the task]
 
 [Back to main Logbook Page](../hci_logbook.md)
 
----
+---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
