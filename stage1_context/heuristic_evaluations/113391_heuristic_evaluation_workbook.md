@@ -16,9 +16,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 > - Does the design clearly communicate its state?
 > - Is feedback presented quickly after user actions?
 
-| **Issue**                                                                                                                                                   | **Severity** | Recommendation                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunicação excessiva e spam: Existe um grande volume de e-mails promocionais indesejados, mesmo após o utilizador solicitar a remover as suas informações. | 3            | Oferecer opções claras para que os utilizadores gerenciem suas preferências de comunicação e respeitar imediatamente as solicitações de remoção de listas de e-mail. |
 
 # 2 Match Between System and The Real World
 
@@ -106,6 +103,3 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 > - Is help documentation easy to search? 
 > - Is help provided in context right at the moment when the user requires it?
 
-| **Issue**                                                                                                                                                                                                                                  | **Severity** | Recommendation                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ausência de suporte rápido para dúvidas comuns: Não há um chat automatizado (chatbot) ou um FAQ dinâmico para responder perguntas frequentes de forma imediata, tornando a experiência mais demorada para quem precisa de suporte rápido. | 3            | Implementar um chatbot ou um assistente virtual que sugira respostas baseadas em palavras-chave digitadas pelo utilizador, agilizando o suporte sem a necessidade de contato direto com o atendimento ao cliente. |
