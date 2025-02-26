@@ -28,28 +28,32 @@ Para uma análise mais aprofundada, escolhemos o StarofService como principal co
 
 A avaliação heurística foi realizada tendo por base no método de **Nielsen**, utilizando um conjunto de heurísticas predefinidas para avaliar a usabilidade da plataforma **StarOfService**. O processo seguiu os seguintes passos:
 
-### 1. Seleção das Heurísticas  
+### 1. Seleção das Heurísticas
+
 Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 
-### 2. Procedimento de Avaliação  
+### 2. Procedimento de Avaliação
+
 - Cada um dos elementos do grupo avaliou a plataforma de forma independente, identificando problemas de usabilidade com base nas heurísticas selecionadas. 
 - Foi utilizada uma escala de gravidade para classificar os problemas encontrados, escala este previamente atribuida pelos docentes da cadeira
 
-### 3. Número de Especialistas  
+### 3. Número de Especialistas
+
 - A avaliação foi conduzida pelos alunos **113261**, **113391** e **113939**. 
 
-### 4. Escala de Gravidade  
+### 4. Escala de Gravidade
+
 - **0**: Não é um problema de usabilidade 
 - **1**: Problema cosmético (pode ser corrigido se houver tempo) 
 - **2**: Pequeno problema de usabilidade (correção desejável, mas não essencial) 
 - **3**: Problema de usabilidade importante (deve ser corrigido) 
 - **4**: Problema crítico (deve ser corrigido com urgência) 
 
-### 5. Processo de Consenso  
+### 5. Processo de Consenso
+
 - Após a análise individual, reuni-mos para discutir os problemas identificados. 
 - Nos casos em que um problema foi identificado por apenas um especialista, os outros foram convidados a reavaliá-lo para determinar se deveria ser incluído na lista final. 
 - Os problemas foram classificados por gravidade e recomendações de melhoria foram propostas.
-
 
 #### Individual Evaluations
 
@@ -89,7 +93,6 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
 
-
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
@@ -108,7 +111,7 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 |                         | Escolher a opção "Contactar Cliente"                                             |
 |                         | Escolher a opção "Comprar o lead" para entrar em contacto com o cliente          |
 |                         | Entrar em contacto com o cliente                                                 |
- Results
+| Results                 |                                                                                  |
 
 Task: [This is the task]
 
@@ -129,16 +132,40 @@ Task: [This is the task]
 
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
 
+Para este tópico, foi criado um guião de entrevista. O objetivo destas era identificar necessidades e possíveis melhorias na experiência dos utilizadores dentro da plataforma.
+
+### 1. Abordagem
+
+- Foram realizadas entrevistas com utilizadores reais que atuam tanto como clientes quanto como prestadores de serviço.
+- Os participantes foram selecionados com base na sua experiência no uso de plataformas similares.
+
+### 2. Perfil dos Utilizadores Considerados
+
+- **Clientes:** Pessoas que utilizam a plataforma para solicitar serviços.
+- **Prestadores de serviço:** Profissionais que oferecem os seus serviços através da plataforma.
+
+### 3. Objetivo das Entrevistas
+
+- Identificar os desafios e problemas enfrentados pelos utilizadores na navegação e uso da plataforma.
+
+- Avaliar as ferramentas atualmente utilizadas para contratar ou prestar serviços.
+
+- Compreender as necessidades específicas dos diferentes perfis de utilizadores.
+
+- Identificar funcionalidades desejadas ou melhorias potenciais.
+
+- [Guião da Entrevista](interviews/interview-questions.md)
+
 ## B.2b. Results
 
 >    This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
 
 ### Interview List
 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| Date       | Participant / Role | Key Insights                                                         | Link to Notes                |
+| ---------- | ------------------ | -------------------------------------------------------------------- | ---------------------------- |
+| 23-02-2025 | Ana Pardal         | Pessoa que costuma oferecer serviços de freelancing                  | [📄 Entrevista](interview_Ana.md) |
+| 24-02-2025 | Guilherme Pereira  | Aluno que já requesitou serviços através de alguma plataforma online | [📄 Entrevista](interview_Guilherme.md)                             |
 
 ### Common Themes & Patterns
 
