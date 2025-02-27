@@ -106,4 +106,3 @@
 16. **Se pudesse sugerir uma funcionalidade inovadora para a plataforma, qual seria?**
 
 
-
