@@ -113,12 +113,11 @@ Foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen.
 
 Task: [This is the task]
 
-| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
-| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| Step # | Task/Action to Perform                                                                | Will User Know What to do at this step? (Yes/No) | Notes                                                                                                                                                | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes                                                    | Is Action Successful? (Yes/No) | Suggestions for Improvement                                                                                                                              |     |
+| ------ | ------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1      | Pesquisar pelo serviço desejado                                                       | Yes                                              | A tarefa é clara contudo se for selecionado uma das opções de temáticas de serviços poderá ser confuso uma vez que aparecem candidaturas a trabalhos | Yes                                                                                       | Aparece um pop-up que representa progressos na ativdade  | Yes                            | Não deveria aparecer as opções de candidaturas a trabalhos. E na barra de pesquisas deveria ser possível procurar pelos sinónimos dos serviços desejados |     |
+| 2      | Preencher os campos que o cliente deseja                                              | Yes                                              | Bastante simples e imediata                                                                                                                          | Yes                                                                                       | Aparece uma barra de progressos                          | Yes                            |                                                                                                                                                          |     |
+| 3      | Escolher entre os profissionais sugeridos ou esperar pelo contacto de um profissional | Yes                                              |                                                                                                                                                      | No                                                                                        | Não é muito percetível que a tarefa tenha sido concluída | Yes                            | Aparece uma mensagem a confirmar que a tarefa foi concluída com sucesso                                                                                  |     |
 
 ---
 
@@ -174,21 +173,15 @@ Para este tópico, foi criado um guião de entrevista. O objetivo destas era ide
   - Dificuldade em encontrar informações requeridas sobre os serviços.
   - Fluxo de navegação pouco intuitivo, especialmente ao alternar entre cliente e prestador.
   - Ausência de confirmações antes de ações críticas, levando a erros acidentais.
-    
-    
 
 - **Frequently Used Tools:** 
   
   - Uso de e-mail ou um chat dentro do website para complementar a comunicação entre clientes e prestadores.
   - Plataformas concorrentes como Fixando e YourHero para comparação de preços e serviços.
-    
-    
 
 - **Desired Features / Solutions:** 
   
   - Melhor organização das informações e filtragem de serviços.
   - Mensagens guiadas e onboarding interativo para novos utilizadores.
-    
-    
 
 [Back to main Logbook Page](../hci_logbook.md)

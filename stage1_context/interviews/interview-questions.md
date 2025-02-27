@@ -20,7 +20,7 @@
 
 5. **A comunicação com o cliente foi boa? Como poderia ter sido melhorada?**
 
-6. **O que considera mais importante ap divulgar um serviço online?Visibilidade,facilidade de comunicação, gestão de pagamento?**
+6. **O que considera mais importante ao divulgar um serviço online?Visibilidade,facilidade de comunicação, gestão de pagamento?**
 
 7. **Como gostaria de ser contactado pelo cliente?**
 
@@ -61,7 +61,7 @@
 
 7. **O que acha que poderia tornar o nosso site de destaque face a outros??**
 
-8. **Mais algumas opinião, ideia ou sugesão que gostaria de adicionar a este projeto?**
+8. **Mais algumas opinião, ideia ou sugestão que gostaria de adicionar a este projeto?**
 
 9. **Se pudesse criar a aplicação ideial, o que faria?**
 
@@ -104,6 +104,5 @@
 15. **Há algo mais que gostaria de partilhar sobre como administraria uma aplicação como esta?**
 
 16. **Se pudesse sugerir uma funcionalidade inovadora para a plataforma, qual seria?**
-
 
 
