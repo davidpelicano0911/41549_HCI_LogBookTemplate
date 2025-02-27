@@ -61,7 +61,7 @@
 
 7. **O que acha que poderia tornar o nosso site de destaque face a outros??**
 
-8. **Mais algumas opinião, ideia ou sugesão que gostaria de adicionar a este projeto?**
+8. **Mais algumas opinião, ideia ou sugestão que gostaria de adicionar a este projeto?**
 
 9. **Se pudesse criar a aplicação ideial, o que faria?**
 
