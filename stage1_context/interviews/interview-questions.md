@@ -21,7 +21,7 @@
 
 5. **A comunicação com o cliente foi boa? Como poderia ter sido melhorada?**
 
-6. **O que considera mais importante ap divulgar um serviço online?Visibilidade,facilidade de comunicação, gestão de pagamento?**
+6. **O que considera mais importante ao divulgar um serviço online?Visibilidade,facilidade de comunicação, gestão de pagamento?**
 
 7. **Como gostaria de ser contactado pelo cliente?**
 
