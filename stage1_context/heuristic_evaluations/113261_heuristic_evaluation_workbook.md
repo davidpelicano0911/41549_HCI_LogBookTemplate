@@ -12,11 +12,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 > - Does the design clearly communicate its state?  
 > - Is feedback presented quickly after user actions?  
 
-| **Issue**                                    | **Severity** | **Recommendation**                                                 |
-| -------------------------------------------- | ------------ | ------------------------------------------------------------------ |
-| O site é lento e tem problemas para iniciar. | 4            | Melhorar a otimização do site para reduzir tempos de carregamento. |
-| Durante a navegação houve um server error.   | 4            | Implementar melhor monitorização e prevenção de erros do servidor. |
-
 # 2 Match Between System and The Real World
 
 > The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.  
@@ -73,9 +68,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 > - Does the design keep important information visible, so that users do not have to memorize it?  
 > - Does the design offer help in-context?  
 
-| **Issue**                                            | **Severity** | **Recommendation**                      |
-| ---------------------------------------------------- | ------------ | --------------------------------------- |
-| O nome do serviço tem de ser exato conforme no site. | 3            | Implementar autocompletar ou sugestões. |
+
 
 # 7 Flexibility and Efficiency of Use
 
@@ -97,7 +90,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                                | **Severity** | **Recommendation**                                      |
 | -------------------------------------------------------- | ------------ | ------------------------------------------------------- |
-| O site é difícil de navegar e exige alguma aprendizagem. | 4            | Melhorar a estrutura de navegação para facilitar o uso. |
+| O site é difícil de navegar e exige alguma aprendizagem. | 3            | Melhorar a estrutura de navegação para facilitar o uso. |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 
@@ -116,9 +109,4 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 > 
 > - Is help documentation easy to search?  
 > - Is help provided in context right at the moment when the user requires it?  
-
-| **Issue**                                                                                                         | **Severity** | **Recommendation**                                                              |
-| ----------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------- |
-| Depois de iniciar sessão com um serviço selecionado, não é possível contratar mais ninguém, só ao iniciar sessão. | 3            | Adicionar opção de multipla contratação, mesmo depois da sessão estar iniciada. |
-
 

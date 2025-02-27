@@ -5,12 +5,11 @@
 ## Interview Details 
 - **Date:** [2025-02-25] 
 - **Interviewer:** Martina
-- **Participant:** [Optional: Anonymous or Role]
 
 ## Interview 1 
 - **Context:**  Someone who intends to offer a service
 
-## QUESTIONS
+## Questions
 1. **Qual é a sua experiência a prestar serviços? O que o motiva?**
 
 2. **Alguma vez utilizou alguma platafomra para divulgar os seus serviços? Se sim, quais e como foi a experiência?**
@@ -43,7 +42,7 @@
 ## Interview 2 
 - **Context:**  Someone who intends to hire a service they need
 
-## QUESTIONS
+## Questions
 
 1. **Consegue descrever algum momento em que precisou de ajuda com alguma tarefa doméstica ou um outro serviço, como passar a roupa a ferro, passear o cão, limpar o jardim...? Encontrou essa ajuda?**
 
@@ -70,7 +69,7 @@
 ## Interview 3 
 - **Context:**  Someone who administrate the project
 
-## QUESTIONS
+## Questions
  
 1. **Pode contar-me um pouco sobre a sua experiência anterior na gestão de plataformas online?**
 
@@ -105,6 +104,5 @@
 15. **Há algo mais que gostaria de partilhar sobre como administraria uma aplicação como esta?**
 
 16. **Se pudesse sugerir uma funcionalidade inovadora para a plataforma, qual seria?**
-
 
 
