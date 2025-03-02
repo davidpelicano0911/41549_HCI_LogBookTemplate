@@ -13,15 +13,15 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| **Photo**        | ![Persona Name\|100](personas/miguel.jpeg)    |
+| **Name**         | Miguel Ferreira                               |
+| **Age**          | 38                                            |
+| **Occupation**   | Faz-Tudo em Serviços de Jardinagem            |
+| **Location**     | Porto, Portugal                               |
+| **Goals**        | Expandir a carteira de clientes, encontrar trabalhos próximos e gerir orçamentos de forma eficiente.         |
+| **Pain Points**  | Dificuldade em alcançar novos clientes, concorrência com grandes empresas e falta de tempo para divulgar serviços.              |
+| **Motivation**   | Quero que mais pessoas conheçam o meu trabalho sem gastar fortunas em publicidade."               |
+| **Full Profile** | [📄 Read More](personas/persona1_Miguel.md)   |
 
 ---
 ## Persona: [Persona Name] 
