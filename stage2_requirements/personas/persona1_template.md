@@ -1,21 +1,31 @@
-# ![Persona Name](personas/persona1.jpeg)  
-**Name:** [Persona Name]  
-**Age:** [Persona Age]  
-**Occupation:** [Job Title or Role]  
-**Location:** [City, Country]  
+# ![Persona Name](personas/gestora.webp)  
+**Name:** [Ana Rodrigues]  
+**Age:** [42 anos]  
+**Occupation:** [Gestora de Projetos]  
+**Location:** [Lisboa, Portugal]  
 
 ## Background  
-[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
+[Ana trabalha numa empresa de tecnologia e tem uma rotina exigente, com reuniões constantes e prazos apertados. Vive sozinha num apartamento e tem um labrador chamado Max, que adora, mas nem sempre consegue dedicar-lhe o tempo necessário para passeios longos durante a semana.]  
 
 ## Daily Life  
-[Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
+[O dia de Ana começa cedo, com chamadas e planeamento de tarefas. Entre deslocações e horas extras no escritório, ela chega a casa exausta. Max precisa de exercício diário, mas muitas vezes ela não tem tempo ou energia para levá-lo a passear. À noite, tenta compensar, mas sente-se culpada por não dar ao seu cão a atenção que ele merece.]  
 
 ## Goals & Needs  
-[Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
+[
+    Encontrar uma pessoa de confiança para passear Max regularmente.
+    Garantir que o cão faz exercício suficiente e mantém-se saudável.
+    Ter flexibilidade para agendar passeios conforme a sua agenda.
+]  
 
 ## Pain Points & Challenges  
-[Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
+[
+    Dificuldade em encontrar alguém fiável e com experiência em lidar com cães grandes.
+    Medo de contratar alguém sem referências e colocar Max em risco.
+    Falta de tempo para pesquisar e entrevistar potenciais dog walkers.
+]  
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  
-[Summarize their core motivation in a compelling way. This could be a short paragraph or even a strong, direct quote that captures their drive.]  
+[
+    Quero garantir que o Max tem os passeios e o exercício que precisa, sem me preocupar se estou a deixá-lo sozinho por demasiado tempo.
+]  
