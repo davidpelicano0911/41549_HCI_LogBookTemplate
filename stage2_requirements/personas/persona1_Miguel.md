@@ -8,7 +8,7 @@
 Miguel Ferreira sempre teve uma forte ligação com a natureza. Cresceu numa família de agricultores e desde cedo aprendeu a cuidar de plantas, árvores e jardins. Com o tempo, transformou essa paixão numa carreira, começando como ajudante num viveiro e evoluindo para trabalhar por conta própria. Atualmente, ele presta serviços como manutenção de jardins, poda de árvores, instalação de sistemas de rega e pequenas construções paisagísticas. Apesar da sua experiência prática, nunca teve formação formal em marketing ou gestão, o que torna a divulgação dos seus serviços um desafio.
 
 ## Daily Life  
-O dia de Miguel começa cedo. Após tomar um café reforçado, ele verifica a agenda para organizar os serviços do dia. Entre deslocações a clientes e trabalhos ao ar livre, ele também responde a chamadas e mensagens de potenciais clientes. Quando tem tempo livre, publica fotos do seu trabalho nas redes sociais e tenta manter sua presença online ativa. No final do dia, revê os orçamentos, responde a avaliações e prepara materiais para os próximos trabalhos.
+O dia do Sr. Miguel começa cedo. Após tomar um pequeno-almoço reforçado, ele verifica a agenda para organizar os serviços do dia. Entre deslocações a clientes e trabalhos ao ar livre, ele também responde a chamadas e mensagens de potenciais clientes. Quando tem tempo livre, publica fotos do seu trabalho nas redes sociais e tenta manter sua presença online ativa. No final do dia, revê os orçamentos, responde a avaliações e prepara materiais para os próximos trabalhos.
 
 ## Goals & Needs  
 Aumentar a sua carteira de clientes sem depender apenas de indicações boca-a-boca.
