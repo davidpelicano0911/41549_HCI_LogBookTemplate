@@ -60,16 +60,16 @@ Animado com a facilidade do processo, Miguel decidiu explorar mais recursos da p
 
 
 
-## Scenario 2: Maria goes on a Museum Tour
+## Scenario 2: Ana Encontra um Dog Walker Confiável para o Max
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
+Ana sempre se preocupou com o bem-estar do Max, mas a sua rotina intensa de trabalho tornava difícil garantir que ele tivesse passeios regulares. Durante semanas, tentou organizar melhor o seu tempo, mas percebeu que precisava de ajuda. Foi então que decidiu procurar um serviço fiável de **dog walkers**.  
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
+Ao pesquisar online, encontrou uma plataforma especializada na contratação de profissionais para serviços diários, incluindo passeios para cães. Curiosa, criou um perfil e preencheu as preferências do Max: cão de grande porte, energético, gosta de correr no parque. O sistema sugeriu vários **dog walkers certificados**, com avaliações detalhadas e informações sobre a sua experiência.  
 
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+Ana gostou especialmente de um profissional chamado João, que tinha excelentes recomendações de outros donos de cães grandes. A plataforma permitia **agendar um primeiro passeio-teste** e acompanhar o percurso em direto. No dia seguinte, enquanto estava numa reunião, Ana recebeu uma notificação informando que João tinha chegado para buscar o Max. Através do **seguimento do percurso em tempo real**, viu que ele seguiu a rota combinada e até enviou uma foto do Max feliz no parque.  
 
+Satisfeita com a experiência, Ana decidiu contratar João para passeios regulares, ajustando os horários conforme a sua agenda. Agora, sempre que está ocupada com o trabalho, sabe que o Max está bem cuidado e a fazer exercício. Isso trouxe-lhe tranquilidade e eliminou a culpa que sentia por não conseguir passear com ele todos os dias.
 ---
 
 
