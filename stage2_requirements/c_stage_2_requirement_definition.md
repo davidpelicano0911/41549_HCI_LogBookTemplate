@@ -48,15 +48,14 @@
 
 ## Scenario 1: Miguel Consegue um Novo Cliente pela Plataforma
 
-Miguel sempre teve talento e gosta em transformar espaços verdes, mas encontrar novos clientes nem sempre era fácil. Ele dependia muito de indicações e redes sociais, o que consumia tempo que poderia estar a usar para trabalhar. Hoje, ele decidiu experimentar um sistema de serviços freelance para expandir a sua clientela.
+Miguel sempre teve talento e paixão por transformar espaços verdes, mas encontrar novos clientes nem sempre era fácil. Para expandir a sua clientela e otimizar o seu tempo, decidiu experimentar uma plataforma de serviços freelance.
 
-Assim que criou o perfil, Miguel adicionou fotos dos seus melhores trabalhos, descreveu os serviços que oferece e definiu a sua área de atendimento. O sistema, percebendo sua experiência e localização, sugeriu que ele ativasse um recurso de orçamentos automáticos, permitindo que potenciais clientes recebessem estimativas iniciais sem precisar trocar muitas mensagens.
+Ao criar o seu perfil, Miguel adicionou fotografias dos seus melhores trabalhos e detalhou os serviços que oferecia. Para facilitar a pesquisa dos clientes, definiu ainda os preços que cobra por hora para diferentes tipos de serviço. Estes valores serviam apenas como referência, sendo o preço final ajustado na troca de mensagens, tendo em conta o tamanho do terreno, a complexidade do serviço e a estimativa do tempo necessário.
 
-Pouco tempo depois, Miguel recebeu uma notificação: um cliente próximo precisava de poda e manutenção de um jardim. O pedido incluía fotos e uma breve descrição. Com poucos cliques, Miguel enviou uma resposta personalizada e um orçamento inicial. O cliente, impressionado com as avaliações positivas de Miguel e com a sua resposta rápida, aceitou a proposta e agendou o serviço diretamente pela plataforma.
+Pouco tempo depois de ativar o seu perfil, Miguel recebeu uma notificação sobre um pedido próximo. Com base nessas informações e necessidades do cliente, Miguel analisou o trabalho e enviou uma mensagem personalizada, sugerindo uma estimativa de tempo para a execução e ajustando o orçamento de acordo com a dimensão do serviço. Combinou também que o pagamento seria realizado diretamente através da aplicação depois do serviço concluído. No mesmo momento, combinou ainda um horário para o serviço ser realizado, em que cliente estaria em casa para lhe abrir a porta.
 
-No dia do serviço, Miguel chegou ao local e realizou o trabalho com dedicação. Ao finalizar, notificou o cliente para indicar que o serviço estava concluído e anexou algumas fotos do resultado. O cliente, satisfeito, deixou uma avaliação positiva e uma recomendação, aumentando a visibilidade do perfil de Miguel para futuros clientes.
+No dia do serviço, Miguel chegou ao local conforme combinado e tirou uma fotografia do jardim antes de começar, registando o seu estado inicial. Após concluir o serviço notificou o cliente descrevendo as atividades que realizou, fotografias do resultado final e uma confirmação com a duração do serviço conforme a estimativa combinada. Também incluiu o valor final a pagar, de acordo com o que foi previamente acordado.
 
-Animado com a facilidade do processo, Miguel decidiu explorar mais recursos da plataforma. Ativou alertas para novos pedidos na sua área e começou a usar a funcionalidade de promoções personalizadas, oferecendo descontos para serviços recorrentes. Em poucos dias, percebeu um aumento nas solicitações, permitindo-lhe organizar melhor a sua agenda e reduzir o tempo gasto na procura por novos clientes.
 
 
 
