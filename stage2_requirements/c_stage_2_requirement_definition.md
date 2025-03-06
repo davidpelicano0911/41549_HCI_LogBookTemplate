@@ -89,7 +89,7 @@ Satisfeita com a experiência, Ana decidiu contratar João para passeios regular
 3. **Sistema de Orçamentos**
    - Os freelancers podem definir **preços base** para os seus serviços.
    - Os clientes podem solicitar orçamentos personalizados diretamente pelo perfil do freelancer.
-   - Os freelancers podem ativar a funcionalidade de **orçamentos automáticos**, permitindo que os clientes recebam uma estimativa com base nas informações que inserem. (ver se vamos aplicar)
+   - Os freelancers podem ativar a funcionalidade de **orçamentos automáticos**, permitindo que os clientes recebam uma estimativa com base nas informações que inserem.
 
 4. **Sistema de Mensagens entre o Cliente e o Freelancer**
    - Os clientes podem enviar mensagens diretas aos freelancers através da plataforma.  
@@ -129,7 +129,6 @@ Satisfeita com a experiência, Ana decidiu contratar João para passeios regular
    - O sistema deve responder rapidamente às pesquisas, mensagens e interações.
 
 6. **Compatibilidade**
-   - Deve ser compatível com as versões mais recentes do **Android** e **iOS**.
    - Deve ser adaptado para diferentes tamanhos de ecrã.
 
 ---
