@@ -18,7 +18,7 @@
 
 | Attribute        | Details                                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Photo**        | ![Persona Name\|100](personas/miguel.jpeg)                                                                         |
+| **Photo**        | ![Persona Name\|100](personas/miguel.jpg)                                                                         |
 | **Name**         | Miguel Ferreira                                                                                                    |
 | **Age**          | 38                                                                                                                 |
 | **Occupation**   | Faz-Tudo em Serviços de Jardinagem                                                                                 |
