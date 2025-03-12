@@ -18,7 +18,7 @@
 
 | Attribute        | Details                                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Photo**        | ![Persona Name\|100](personas/miguel.jpg)                                                                         |
+| **Photo**        | ![Persona Name\|100](personas/miguel.jpg)                                                                          |
 | **Name**         | Miguel Ferreira                                                                                                    |
 | **Age**          | 38                                                                                                                 |
 | **Occupation**   | Faz-Tudo em Serviços de Jardinagem                                                                                 |
@@ -50,20 +50,15 @@
 
 # Scenarios
 
-## Scenario: 
+## Scenario:
 
+Miguel é experiente em cuidados de jardim e, ao criar conta na plataforma, cria um perfil, adicionando fotografias dos seus trabalhos anteriores, descrevendo os serviços que oferece e os preços, com o objetivo de encontrar clientes que necessitem de soluções práticas e de qualidade para a manutenção de espaços verdes.
 
-Miguel é experiente em cuidados de jardim que, ao criar conta na plataforma, cria um perfil,adicionando fotos de seus trabalhos anteriores, descrevendo os serviços que oferece e os preços, tendo por objetivo encontrar clientes que precisem de soluções práticas e de qualidade para a manutenção de áreas verdes.
+Do outro lado, a Ana precisa de alguém para lhe podar as árvores e cortar o relvado. Ao criar conta na mesma plataforma, adiciona também a sua localização e o serviço que pretende. De imediato, recebe uma lista de profissionais disponíveis. Entre as várias opções, o perfil do Miguel chama-lhe a atenção: as fotografias de antes e depois de cada trabalho, as avaliações positivas de outros clientes e os preços detalhados dão-lhe a confiança que procurava.
 
-Do outro lado, Ana precisa de alguém para lhe podar as árvores e cortar o jardim. Ao criar conta na mesma plataforma, ela adiciona também a sua localização e o serviço que pretende. Nisto, recebe de imediato uma lista de profissionais disponíveis. Entre as várias opções, Ana impressiona-se com o perfil de Miguel: as fotos de antes e depois de cada trabalho, as avaliações positivas de outros clientes e os preços detalhados dão a confiança que ela procurava.
+Depois de conversarem pelo chat da plataforma e agendarem uma visita para avaliar o jardim pessoalmente, o Miguel analisa o espaço e apresenta um orçamento, incluindo a estimativa de tempo e custo. A Ana aprova a proposta e confirma o pagamento diretamente através da aplicação, já organizando a data do serviço.
 
-Depois de conversarem pelo chat da plataforma e agendarem uma visita para avaliar o jardim pessoalmente, Miguel faz uma análise do espaço e apresenta um orçamento, incluindo estimativa de tempo e custo. Ana aprova a proposta e confirma o pagamento diretamente pelo aplicativo, já organizando a data do serviço.
-
-No dia combinado, Miguel chega, tira fotos do estado atual do jardim e inicia as tarefas. No final, ele regista novas imagens mostrando o resultado, descreve as etapas realizadas e o tempo gasto, comprovando a qualidade de seu trabalho. Satisfeita com o serviço, Ana confirma tudo na plataforma, deixa uma avaliação positiva, atribui a Miguel a nota máxima e ainda o adiciona à lista de profissionais favoritos para possíveis manutenções futuras.
-
-
-
-
+No dia combinado, o Miguel chega, tira fotografias do estado atual do jardim e inicia as tarefas. No final, regista novas imagens a mostrar o resultado, descreve as etapas realizadas e o tempo gasto, comprovando a qualidade do seu trabalho. Satisfeita com o serviço, a Ana confirma tudo na plataforma, deixa uma avaliação positiva, atribui ao Miguel a pontuação máxima e ainda o adiciona à lista de profissionais favoritos para futuras manutenções.
 
 # Requirements
 
@@ -105,7 +100,6 @@ No dia combinado, Miguel chega, tira fotos do estado atual do jardim e inicia as
    
    - Proteção dos dados dos utilizadores através de autenticação segura e encriptação de informações pessoais.
    - Principalmente os pagamentos na plataforma, devem ser processados de forma segura.
-
 
 4. **Usabilidade**
    

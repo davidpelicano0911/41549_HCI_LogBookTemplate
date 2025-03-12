@@ -161,8 +161,8 @@ Para este tópico, foi criado um guião de entrevista. O objetivo destas era ide
 
 | Date       | Participant / Role | Key Insights                                                         | Link to Notes                                      |
 | ---------- | ------------------ | -------------------------------------------------------------------- | -------------------------------------------------- |
-| 23-02-2025 | Ana Pardal         | Pessoa que costuma oferecer serviços de freelancing                  | [📄 Entrevista](interviews/interview_Ana.md)       |
-| 24-02-2025 | Guilherme Pereira  | Aluno que já requesitou serviços através de alguma plataforma online | [📄 Entrevista](interviews/interview_Guilherme.md) |
+| 23-02-2025 | Ana Pardal         | Pessoa que costuma oferecer serviços de freelancing                  | [📄 Entrevista](interviews/interview_ana.md)       |
+| 24-02-2025 | Guilherme Pereira  | Aluno que já requesitou serviços através de alguma plataforma online | [📄 Entrevista](interviews/interview_guilherme.md) |
 
 ### 
 
